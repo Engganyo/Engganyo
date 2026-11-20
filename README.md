@@ -4,16 +4,7 @@
 <tr>
 <td>
 
-<div align="left">
-
-<table>
-<tr>
-<td><img src="https://github.com/Engganyo.png?size=96" width="40" height="40" alt="Engganyo"></td>
-<td><b>Engganyo</b> ⭐<br><sub>🌐 Public · engganyo.com</sub></td>
-</tr>
-</table>
-
-</div>
+<img src="https://github.com/Engganyo.png?size=96" width="36" height="36" align="left" alt="Engganyo">&nbsp;<b>Engganyo</b> ⭐<br>&nbsp;<sub>🌐 Public · engganyo.com</sub>
 
 <p align="left">
 🤝 <b>POV: You finally found a place where creators actually support each other.</b><br>
