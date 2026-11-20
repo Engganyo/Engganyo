@@ -13,7 +13,7 @@
 #creators &nbsp;#smallcreators &nbsp;#contentcreators &nbsp;#engganyo
 </p>
 
-<a href="Video/Engganyo%20Video%203840x2160.mp4"><img src="Banner/Engganyo%20Banner%201500x500.png" alt="Engganyo - click to play the 4K video" width="100%"></a>
+<a href="Video/Engganyo%20Video%203840x2160.mp4"><img src="Video/Engganyo%20Video%20Preview.gif" alt="Engganyo - click to open the 4K video" width="100%"></a>
 
 <a href="Video/Engganyo%20Video%203840x2160.mp4"><img src="https://img.shields.io/badge/▶%20PLAY-4K%20video-E8A800?style=for-the-badge&labelColor=1F3260" alt="Play the 4K video"></a>
 <a href="https://engganyo.com"><img src="https://img.shields.io/badge/⭐%20VISIT-engganyo.com-E8A800?style=for-the-badge&labelColor=1F3260" alt="Visit engganyo.com"></a>
