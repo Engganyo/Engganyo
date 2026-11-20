@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-<img src="https://github.com/Engganyo.png?size=96" width="52" height="52" align="left" alt="Engganyo">&nbsp;<b>Engganyo</b> ⭐<br>&nbsp;<sub>🌐 Public · engganyo.com</sub>
+<p align="left">&nbsp;&nbsp;<img src="https://github.com/Engganyo.png?size=96" width="40" height="40" align="absmiddle" alt="Engganyo">&nbsp;&nbsp;<b>Engganyo</b> ⭐ &nbsp;<sub>🌐 Public · engganyo.com</sub></p>
 
 <hr>
 
