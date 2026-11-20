@@ -6,6 +6,8 @@
 
 <img src="https://github.com/Engganyo.png?size=96" width="36" height="36" align="left" alt="Engganyo">&nbsp;<b>Engganyo</b> ⭐<br>&nbsp;<sub>🌐 Public · engganyo.com</sub>
 
+<hr>
+
 <p align="left">
 🤝 <b>POV: You finally found a place where creators actually support each other.</b><br>
 💎 <a href="https://engganyo.com">engganyo.com</a><br>
